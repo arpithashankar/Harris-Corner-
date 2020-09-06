@@ -1,0 +1,9 @@
+E:\image processing\ColorChange\ColorChange\bin\Debug\ColorChange.exe.config
+E:\image processing\ColorChange\ColorChange\bin\Debug\ColorChange.exe
+E:\image processing\ColorChange\ColorChange\bin\Debug\ColorChange.pdb
+E:\image processing\ColorChange\ColorChange\bin\Debug\System.Drawing.Common.dll
+E:\image processing\ColorChange\ColorChange\obj\Debug\ColorChange.csprojAssemblyReference.cache
+E:\image processing\ColorChange\ColorChange\obj\Debug\ColorChange.csproj.CoreCompileInputs.cache
+E:\image processing\ColorChange\ColorChange\obj\Debug\ColorChange.csproj.CopyComplete
+E:\image processing\ColorChange\ColorChange\obj\Debug\ColorChange.exe
+E:\image processing\ColorChange\ColorChange\obj\Debug\ColorChange.pdb
